@@ -26,8 +26,6 @@ julia> using Distributions, UnicodePlots, YeoJohnsonTrans
 julia> x = rand(Gamma(2,2), 10000) .+ 1;
 
 julia> histogram(YeoJohnsonTrans.transform(x))
-
-julia> histogram(YeoJohnsonTrans.transform(x))
              ┌────────────────────────────────────────┐ 
    (0.6,0.8] │▇▇ 168                                  │ 
    (0.8,1.0] │▇▇▇▇▇▇▇▇▇▇▇▇ 837                        │ 
