@@ -30,6 +30,7 @@ TBD
 julia> histogram(YeoJohnsonTrans.transform(x))
 
 TBD
+```
 
 You can examine the power transform parameter (λ) dervied by the program:
 ```
