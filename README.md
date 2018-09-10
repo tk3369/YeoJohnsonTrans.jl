@@ -4,7 +4,7 @@
 [![codecov](https://codecov.io/gh/tk3369/YeoJohnsonTrans.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/tk3369/YeoJohnsonTrans.jl)
 [![Coverage Status](https://coveralls.io/repos/github/tk3369/YeoJohnsonTrans.jl/badge.svg?branch=master)](https://coveralls.io/github/tk3369/YeoJohnsonTrans.jl?branch=master)
 
-This package provides an implementation of Box Cox transformation.
+This package provides an implementation of Yeo Johnson transformation.
 See [Wikipedia - Power Transform](https://en.wikipedia.org/wiki/Power_transform)
 for more information.
 
