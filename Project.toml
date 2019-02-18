@@ -1,6 +1,6 @@
 name = "YeoJohnsonTrans"
-version = "0.1.0"
-uuid = "196f2941-2d58-45ba-9f13-43a2532b2fa8"
+version = "1.0.0"
+uuid = "bde5d4e9-ba51-5a47-b2d1-b5088a182367"
 author = ["Tom Kwong <tk3369@gmail.com>"]
 
 [deps]
