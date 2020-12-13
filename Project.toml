@@ -1,12 +1,15 @@
 name = "YeoJohnsonTrans"
-version = "1.0.0"
 uuid = "bde5d4e9-ba51-5a47-b2d1-b5088a182367"
 author = ["Tom Kwong <tk3369@gmail.com>"]
+version = "1.0.0"
 
 [deps]
 Optim = "429524aa-4258-5aef-a3af-852621145aeb"
-StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
+[compat]
+StatsBase = "0.33"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
